@@ -1,1 +1,1 @@
-# csusg-dev-crew
+# SG CSU Software Engineering Handbook 
