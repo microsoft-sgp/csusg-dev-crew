@@ -41,8 +41,9 @@
 
 <br />
 
-<img width="1522" height="763" alt="image" src="https://github.com/user-attachments/assets/fd7fb0d5-afba-43cc-80fb-70c12fbb3eaf" />
+<img width="1569" height="791" alt="image" src="https://github.com/user-attachments/assets/e639a801-a334-4b0a-abae-a6e64a0451fa" />
 
+<br />
 <br />
 
 ## 1. New Feature Workflow
