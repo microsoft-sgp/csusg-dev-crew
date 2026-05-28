@@ -22,5 +22,6 @@
 ## Checklist
 - [ ] Self-reviewed my code
 - [ ] Tested locally
+- [ ] Unit tests covered for business critical logic and calculation, complex algorithm and validation, nested conditions
 - [ ] Updated docs/config if needed
 - [ ] No sensitive data or secrets added
